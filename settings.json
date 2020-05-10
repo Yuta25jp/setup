@@ -1,0 +1,10 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "git.suggestSmartCommit": false,
+    "dart.flutterSdkPath": "/Users/yutaimai/Desktop/flutter",
+    "sync.gist": "160130a106a797b4e2a80e78adde6836",
+    "window.zoomLevel": 0,
+    "git.autofetch": true,
+    "gitlens.gitCommands.closeOnFocusOut": true,
+    "editor.snippetSuggestions": "top"
+}

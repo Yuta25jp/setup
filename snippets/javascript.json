@@ -1,0 +1,16 @@
+{
+	"document.wite": {
+		"prefix": "doc",
+		"body": "document.write('<p></p>')",
+		
+	}
+
+	"for": {
+		"prefix": "for",
+		"body": [
+			"for (var i = 0; i < xx.length; i++) { "
+				"document.write() ;"
+			"}",]
+
+	}
+}

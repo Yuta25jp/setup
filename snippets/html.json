@@ -1,0 +1,7 @@
+{
+    "html5": {
+        "prefix": "!",
+        "body": "<!DOCTYPE html>\n<html lang=\"ja\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>${1:Document}</title>\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"${2:./css/style.css}\">\n</head>\n<body>\n    $0\n</body>\n</html>"
+	}
+
+}
